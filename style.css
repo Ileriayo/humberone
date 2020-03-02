@@ -1670,6 +1670,7 @@ h6 {
 }
 .slick-slider-layout1 .slick-nav-wrap .slick-nav .nav-item .item-title {
   font-weight: 500;
+  font-size: 17px;
   color: #ffffff;
 }
 @media only screen and (max-width: 991px) {
@@ -8672,7 +8673,7 @@ div#wrapper.open > .offcanvas-mask {
   background-color: #f8f8f8;
 }
 .bg-accent {
-  background-color: #082c4b;
+  background-color: #DA101A;
 }
 .bg-textprimary {
   background-color: #ffffff !important;
