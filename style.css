@@ -8673,6 +8673,9 @@ div#wrapper.open > .offcanvas-mask {
   background-color: #f8f8f8;
 }
 .bg-accent {
+  background-color: #082c4b;
+}
+.bg-accent-nav {
   background-color: #DA101A;
 }
 .bg-textprimary {
